@@ -12,6 +12,7 @@ public class MavenApplication {
                 int b=20
                 c=a+b;
                 System.out.println(c);
+                c=a-b;
 	}
 
 }
