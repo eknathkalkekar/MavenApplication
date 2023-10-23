@@ -13,7 +13,12 @@ public class MavenApplication {
                 c=a+b;
                 System.out.println(c);
                 c=a-b;
+
+                public void Mul(){
+                }
+
                 public void sum(){
+
                 }
 	}
 
